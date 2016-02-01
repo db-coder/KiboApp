@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "kibo-62f5",
+    "project_number": "44130247278",
+    "name": "Kibo"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44130247278:android:33fb3a0518a2dd1a",
+        "client_id": "android:com.example.dibyendu.kibo",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.dibyendu.kibo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44130247278-t6ptvj7fjnigejkpckms39pkk989ennf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dibyendu.kibo",
+            "certificate_hash": "C303FA673068DF3FA65E63FFAF9FA9BBD7D59F13"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
